@@ -1,0 +1,13 @@
+- Monitor Suhu dan Kelembaban
+
+GET https://api.thingspeak.com/channels/1992077/feeds.json?api_key=CUWLXR5CMF745KFS&results=2 
+
+
+- Kendali Lampu
+
+GET
+https://api.thingspeak.com/channels/1989975/feeds.json?api_key=I89HQQBSEOOJD097&results=2 
+
+- Update Data
+
+GET https://api.thingspeak.com/update?api_key=0BSTTZ7JWA9OMDPU&field1=0

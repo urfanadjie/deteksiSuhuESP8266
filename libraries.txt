@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT sensor library for ESPx
+ThingSpeak
+Potentiostat_Shield
+ESP32Servo
+Adafruit Sensor Lab
